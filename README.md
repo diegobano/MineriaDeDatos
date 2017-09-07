@@ -4,8 +4,7 @@ Integrantes:
 - Alexis Espinoza
 - Aníbal Fuentes
 
-Hito 1
+[Hito 1](https://github.com/diegobano/MineriaDeDatos/wiki/Entrega-n%C3%BAmero-uno)
 
-Educación superior
-
+Corta la chacota pos oe
 Fin hito 1
