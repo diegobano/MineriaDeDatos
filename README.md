@@ -4,4 +4,6 @@ Integrantes:
  - Alexis Espinoza
  - Aníbal Fuentes
 
-- ## [Entrega inicial](https://github.com/diegobano/MineriaDeDatos/wiki/Entrega-inicial)
+- ## [Hito 1](https://github.com/diegobano/MineriaDeDatos/wiki/Entrega-inicial)
+
+- ## [Hito 2](https://github.com/diegobano/MineriaDeDatos/wiki/Hito-2)
