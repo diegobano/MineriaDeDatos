@@ -7,3 +7,5 @@ Integrantes:
 - ## [Hito 1](https://github.com/diegobano/MineriaDeDatos/wiki/Entrega-inicial)
 
 - ## [Hito 2](https://github.com/diegobano/MineriaDeDatos/wiki/Hito-2)
+
+- ## [Hito 3](https://github.com/diegobano/MineriaDeDatos/wiki/Hito-3)
